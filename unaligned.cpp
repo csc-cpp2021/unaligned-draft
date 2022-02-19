@@ -1,7 +1,6 @@
 // Сборка:
 // g++ -fsanitize=alignment -Wall -Wextra -std=c++2a unaligned.cpp -o unaligned
-// clang++ -fsanitize=alignment -Wall -Wextra -std=c++20 unaligned.cpp -o
-// unaligned
+// clang++ -fsanitize=alignment -Wall -Wextra -std=c++20 unaligned.cpp -o unaligned
 
 #include <cstring>
 #include <iostream>
